@@ -1,0 +1,8 @@
+{
+	"watch": ["."],
+	"ext": "ts",
+	"inspect": true,
+	"execMap": {
+		"ts": "bun index.ts"
+	}
+}
